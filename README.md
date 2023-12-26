@@ -9,6 +9,7 @@
 # 🔧 I'm currently working on
 > - SoundBlender (Listen to music that suits your mood)
 > - Pulse Presence (Rich presence for discord)
+> - WelCard (Npm package for discord bot)
 
 
 # 🔨 The skills 
