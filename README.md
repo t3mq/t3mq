@@ -2,7 +2,7 @@
 
 # 🦜 About Me
 > - French Student
-> - I have 17 years
+> - I am 17 years
 > - I want to work on the cybersecurity
 > - I speak French and english
 
