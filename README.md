@@ -7,7 +7,6 @@
 > - I speak French and english
 
 # 🔧 I'm currently working on
-> - Ilock (Discord bot)
 > - SoundBlender (Listen to music that suits your mood)
 > - Pulse Presence (Rich presence for discord)
 > - WelCard (Npm package for discord bot)
