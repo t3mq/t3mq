@@ -16,13 +16,13 @@ If you want to support me, you can <a href="https://ko-fi.com/t3mq_"> buy me a c
 ### Some things about me
 
 **The languages I know**
-[![My Skills](htttps://skillicons.dev/icons?i=js,html,css,lua,py)](#)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,lua,py)](#)
 
 **Database I use**
-[![My Skills](htttps://skillicons.dev/icons?i=mongodb,mysql)](#)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql)](#)
 
 **Software I use**
-[![My Skills](htttps://skillicons.dev/icons?i=blender,github,idea,notion,ps,visualstudio,vscode)](#)
+[![My Skills](https://skillicons.dev/icons?i=blender,github,idea,notion,ps,visualstudio,vscode)](#)
 
 **Reach Me**
 You can ask me anything, or just chat with me. Don't hesitate!
