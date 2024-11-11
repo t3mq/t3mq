@@ -16,12 +16,15 @@ If you want to support me, you can <a href="https://ko-fi.com/t3mq_"> buy me a c
 ### Some things about me
 
 **The languages I know**
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,lua,py)](#)
 
 **Database I use**
+
 [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql)](#)
 
 **Software I use**
+
 [![My Skills](https://skillicons.dev/icons?i=blender,github,idea,notion,ps,visualstudio,vscode)](#)
 
 **Reach Me**
