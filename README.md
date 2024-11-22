@@ -7,10 +7,6 @@
 
 ### Nice to see you here ! &nbsp;
 
-I'm the developer of [**DropRadar**][DropRadar], A bot that lets you buy shoes online based on [Discord](https://discord.com).
-
-I love spending my time creating something that not only looks good but also perfectly usable and practical. I decided to create DropRadar in 2024 because more and more people are interested in the world of sneakers, especially in famous pairs like travis and others!
-
 If you want to support me, you can <a href="https://ko-fi.com/t3mq_"> buy me a coffee</a>
 
 ### Some things about me
