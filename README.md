@@ -7,7 +7,7 @@
 
 ### Nice to see you here ! &nbsp;
 
-
+I've been passionate about computer development since I was a kid and I'm trying to make it my profession. 👀
 
 ### Some things about me
 
