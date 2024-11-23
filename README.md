@@ -7,11 +7,11 @@
 
 ### Nice to see you here ! &nbsp;
 
-If you want to support me, you can <a href="https://ko-fi.com/t3mq_"> buy me a coffee</a>
+
 
 ### Some things about me
 
-**The languages I know**
+**Current Skills**
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,lua,py)](#)
 
@@ -21,7 +21,7 @@ If you want to support me, you can <a href="https://ko-fi.com/t3mq_"> buy me a c
 
 **Software I use**
 
-[![My Skills](https://skillicons.dev/icons?i=blender,github,idea,notion,ps,visualstudio,vscode)](#)
+[![My Skills](https://skillicons.dev/icons?i=blender,github,idea,notion,ps,figma,visualstudio,vscode)](#)
 
 **Reach Me**
 You can ask me anything, or just chat with me. Don't hesitate!
