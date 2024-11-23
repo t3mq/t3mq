@@ -1,5 +1,5 @@
 <!-- List Of Websites -->
-[DropRadar]: https://discord.gg/sneaker
+[DropRadar]: https://discord.gg/5xA5zMbmNT
 [Discord]: https://discord.com/users/359924289832484865
 [Github]: https://github.com/t3mq
 
