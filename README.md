@@ -13,7 +13,7 @@ I've been passionate about computer development since I was a kid and I'm trying
 
 **Current Skills**
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,lua,py,cs)](#)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,lua,py,cs,react,tailwind)](#)
 
 **Database I use**
 
