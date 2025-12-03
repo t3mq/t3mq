@@ -17,7 +17,7 @@ I've been passionate about computer development since I was a kid and I'm trying
 
 **Database I use**
 
-[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql)](#)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,prisma)](#)
 
 **Software I use**
 
