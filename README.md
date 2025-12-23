@@ -27,7 +27,7 @@ CollabMate was born from that mindset — and I’m continuously improving it to
 
 Building modern, scalable, and practical web applications.
 
-[![Skills](https://skillicons.dev/icons?i=html,css,js,react,astro,nodejs,py,mysql,git,linux)](#)
+[![Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,py,mysql,git,linux)](#)
 
 ---
 
