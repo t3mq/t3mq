@@ -33,7 +33,7 @@ Building modern, scalable, and practical web applications.
 
 ### 🛠️ Tools & Productivity
 
-[![Tools](https://skillicons.dev/icons?i=vscode,intellij,vscode,figma,notion,slack,office,bash,powershell)](#)
+[![Tools](https://skillicons.dev/icons?i=vscode,intellij,vscode,figma,notionbash,powershell)](#)
 
 ---
 
